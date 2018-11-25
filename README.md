@@ -11,3 +11,6 @@ competition 확인 : https://www.kaggle.com/c/santander-product-recommendation
 변수설명 : https://docs.google.com/spreadsheets/d/1Bwug3l53W4ffF49FHco4VGFXujqOuNGqDyT7P70Bcfs/edit?usp=sharing
 
 내용 정리 : https://docs.google.com/presentation/d/1Yr2LJgQS8uoGzrUCS7VnvvRiq2JirmT0cZPTCgyr_R8/edit?usp=sharing
+
+
+참고 : https://github.com/Currie32/Santander-Product-Recommendation/blob/master/Santander_Bank_Analysis.ipynb
